@@ -2,8 +2,7 @@
 
 
 - 🔭 I’m currently working on management software
-- 🌱 I’m currently learning mvc
-<!--- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning mvc<!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
 - 📫 How to reach me: pedrogomes2000.3@gmail.com
