@@ -1,11 +1,10 @@
 ### Hi there, I'm Pedro - aka [483RR4710N][website] 👋
 
 ## I'm a Software Developer and Infosec enthusiast!
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 I’m currently working on way too many projects at once
+- 🌱 I’m currently learning about VMs
+- 👯 I’m looking to collaborate on open source projects
+- ⚡ Fun fact: Some chickens do fly
 
 ### Connect with me:
 
