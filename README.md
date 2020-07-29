@@ -37,7 +37,7 @@
 
 ---
 
-<img align="left" alt="PedroGomesIO's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PedroGomesIO&show_icons=true&hide_border=true" />
+<img align="left" alt="PedroGomesIO's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PedroGomesIO&show_icons=true&hide_border=true&count_private=true" />
 
 [website]: https://pedrogomesio.github.io
 [twitter]: https://twitter.com/483RR4710N
