@@ -1,4 +1,4 @@
-### Hi there, I'm Pedro - aka [483RR4710N][website] 👋
+### Hi there, I'm Pedro 👋
 
 ## I'm a Software Developer and Infosec enthusiast!
 - 🔭 I’m currently working on way too many projects at once
@@ -38,5 +38,5 @@
 
 <img align="left" alt="PedroGomesIO's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PedroGomesIO&show_icons=true&hide_border=true&count_private=true" />
 
-[twitter]: https://twitter.com/483RR4710N
+[twitter]: https://twitter.com/PedroGomesIO
 [linkedin]: https://www.linkedin.com/in/pgbgomes/
