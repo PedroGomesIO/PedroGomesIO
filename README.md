@@ -1,10 +1,6 @@
 ### Hi there, I'm Pedro 👋
 
 ## I'm a Software Developer and Infosec enthusiast!
-- 🔭 I’m currently working on way too many projects at once
-- 🌱 I’m currently learning about VMs
-- 👯 I’m looking to collaborate on open source projects
-- ⚡ Fun fact: Some chickens do fly
 
 ### Connect with me:
 
